@@ -19,9 +19,7 @@ namespace can_u_drive
                     Console.WriteLine("Lekker dan!");
                 }                
                 
-            }
-
-               
+            }             
 
         }
     }
