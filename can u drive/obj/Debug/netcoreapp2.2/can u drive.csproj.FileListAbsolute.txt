@@ -1,0 +1,11 @@
+C:\data\gitHub\PRO2\can u drive\bin\Debug\netcoreapp2.2\can u drive.deps.json
+C:\data\gitHub\PRO2\can u drive\bin\Debug\netcoreapp2.2\can u drive.runtimeconfig.json
+C:\data\gitHub\PRO2\can u drive\bin\Debug\netcoreapp2.2\can u drive.runtimeconfig.dev.json
+C:\data\gitHub\PRO2\can u drive\bin\Debug\netcoreapp2.2\can u drive.dll
+C:\data\gitHub\PRO2\can u drive\bin\Debug\netcoreapp2.2\can u drive.pdb
+C:\data\gitHub\PRO2\can u drive\obj\Debug\netcoreapp2.2\can u drive.csprojAssemblyReference.cache
+C:\data\gitHub\PRO2\can u drive\obj\Debug\netcoreapp2.2\can u drive.csproj.CoreCompileInputs.cache
+C:\data\gitHub\PRO2\can u drive\obj\Debug\netcoreapp2.2\can u drive.AssemblyInfoInputs.cache
+C:\data\gitHub\PRO2\can u drive\obj\Debug\netcoreapp2.2\can u drive.AssemblyInfo.cs
+C:\data\gitHub\PRO2\can u drive\obj\Debug\netcoreapp2.2\can u drive.dll
+C:\data\gitHub\PRO2\can u drive\obj\Debug\netcoreapp2.2\can u drive.pdb
