@@ -16,6 +16,15 @@ namespace PopulationControl
             }
             this.name = name;
         }
+        public void SetCountry(string country){
+            foreach(string c in CountryList.LIST){
+                //check of het ingevoerde land in de lijst staat!!!!
+
+
+                
+            }
+
+        }
     }
 
 }
