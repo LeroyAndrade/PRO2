@@ -1,0 +1,11 @@
+C:\data\gitHub\PRO2\PopulationControl\bin\Debug\netcoreapp2.2\PopulationControl.deps.json
+C:\data\gitHub\PRO2\PopulationControl\bin\Debug\netcoreapp2.2\PopulationControl.runtimeconfig.json
+C:\data\gitHub\PRO2\PopulationControl\bin\Debug\netcoreapp2.2\PopulationControl.runtimeconfig.dev.json
+C:\data\gitHub\PRO2\PopulationControl\bin\Debug\netcoreapp2.2\PopulationControl.dll
+C:\data\gitHub\PRO2\PopulationControl\bin\Debug\netcoreapp2.2\PopulationControl.pdb
+C:\data\gitHub\PRO2\PopulationControl\obj\Debug\netcoreapp2.2\PopulationControl.csprojAssemblyReference.cache
+C:\data\gitHub\PRO2\PopulationControl\obj\Debug\netcoreapp2.2\PopulationControl.csproj.CoreCompileInputs.cache
+C:\data\gitHub\PRO2\PopulationControl\obj\Debug\netcoreapp2.2\PopulationControl.AssemblyInfoInputs.cache
+C:\data\gitHub\PRO2\PopulationControl\obj\Debug\netcoreapp2.2\PopulationControl.AssemblyInfo.cs
+C:\data\gitHub\PRO2\PopulationControl\obj\Debug\netcoreapp2.2\PopulationControl.dll
+C:\data\gitHub\PRO2\PopulationControl\obj\Debug\netcoreapp2.2\PopulationControl.pdb

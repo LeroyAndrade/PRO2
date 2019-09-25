@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\data\\gitHub\\PRO2\\classassignment\\classAssignment.csproj": {}
+    "C:\\data\\gitHub\\PRO2\\PopulationControl\\PopulationControl.csproj": {}
   },
   "projects": {
-    "C:\\data\\gitHub\\PRO2\\classassignment\\classAssignment.csproj": {
+    "C:\\data\\gitHub\\PRO2\\PopulationControl\\PopulationControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\data\\gitHub\\PRO2\\classassignment\\classAssignment.csproj",
-        "projectName": "classAssignment",
-        "projectPath": "C:\\data\\gitHub\\PRO2\\classassignment\\classAssignment.csproj",
+        "projectUniqueName": "C:\\data\\gitHub\\PRO2\\PopulationControl\\PopulationControl.csproj",
+        "projectName": "PopulationControl",
+        "projectPath": "C:\\data\\gitHub\\PRO2\\PopulationControl\\PopulationControl.csproj",
         "packagesPath": "C:\\Users\\e.henraat\\.nuget\\packages\\",
-        "outputPath": "C:\\data\\gitHub\\PRO2\\classassignment\\obj\\",
+        "outputPath": "C:\\data\\gitHub\\PRO2\\PopulationControl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
